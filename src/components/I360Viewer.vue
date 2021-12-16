@@ -35,7 +35,7 @@
       <!--/ 360 viewport -->
 
       <!-- Fullscreen Button -->
-      <abbr title="Fullscreen Toggle">
+      <!-- <abbr title="Fullscreen Toggle">
         <div
           class="v360-fullscreen-toggle text-center"
           @click="toggleFullScreen"
@@ -53,7 +53,7 @@
             ></i>
           </div>
         </div>
-      </abbr>
+      </abbr> -->
       <!--/ Fullscreen Button -->
 
       <!-- Buttons Container -->
